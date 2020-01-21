@@ -1,0 +1,9 @@
+D:\Projects\RoyalLondonCsvReader\UnitTest\bin\Debug\Customer.csv
+D:\Projects\RoyalLondonCsvReader\UnitTest\bin\Debug\UnitTest.dll
+D:\Projects\RoyalLondonCsvReader\UnitTest\bin\Debug\UnitTest.pdb
+D:\Projects\RoyalLondonCsvReader\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\RoyalLondonCsvReader\UnitTest\bin\Debug\RoyalLondonCsvReader.exe
+D:\Projects\RoyalLondonCsvReader\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Projects\RoyalLondonCsvReader\UnitTest\obj\Debug\UnitTest.dll
+D:\Projects\RoyalLondonCsvReader\UnitTest\obj\Debug\UnitTest.pdb
+D:\Projects\RoyalLondonCsvReader\UnitTest\bin\Debug\RoyalLondonCsvReader.pdb

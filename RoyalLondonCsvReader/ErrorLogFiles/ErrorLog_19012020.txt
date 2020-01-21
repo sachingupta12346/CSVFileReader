@@ -1,0 +1,9 @@
+Time: 19/01/2020 07:02:36 AM
+-----------------------------------------------------------
+Message: Attempted to divide by zero.
+StackTrace:    at RoyalLondonCsvReader.CustomerRenewalInvitation.WriteFile(DataTable dtCsv) in D:\Projects\RoyalLondonCsvReader\RoyalLondonCsvReader\CustomerRenewalInvitation.cs:line 197
+   at RoyalLondonCsvReader.Program.Main(String[] args) in D:\Projects\RoyalLondonCsvReader\RoyalLondonCsvReader\Program.cs:line 33
+Source: mscorlib
+TargetSite: Void FCallDivide(System.Decimal ByRef, System.Decimal ByRef)
+-----------------------------------------------------------
+
